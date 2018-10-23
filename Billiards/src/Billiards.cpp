@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : Billiards.cpp
-// Author      :
+// Author      : Eduardo Guti
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
